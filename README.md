@@ -1,6 +1,6 @@
 The main code is contained in SRC.
 The csv files are data from the given years for flights.
-The queries folder has some examples of what is expected from running the code.
+The queries folder has some examples of what is expected from running the code, with the query and year in question given.
 
 The code needs external libraries to run, which I may link in the future.
 
